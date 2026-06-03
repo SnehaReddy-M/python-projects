@@ -10,6 +10,13 @@ Beginner Python projects created while learning python.
 7.treasure map
 8.rock paper scissors
 9.Hangman game
+10.Quiz Application
+- Concepts: Functions, Loops, Dictionaries, User Input
+- Features:
+  - Multiple-choice questions
+  - Score tracking
+  - Percentage calculation
+  - Input validation
 
 ## Concepts Used
 -Variables
