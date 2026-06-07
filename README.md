@@ -20,6 +20,12 @@ My goal is to strengthen my Python skills and prepare for coding interviews, pla
 
 # 📂 Projects
 
+### Caesar Cipher
+- Encrypt and decrypt messages using the Caesar Cipher technique.
+- Supports custom shift keys.
+- Handles letters, numbers, spaces, and special characters.
+- Built using Python functions, loops, conditionals, and string manipulation.
+
 ## 🎮 Hangman Game
 A word guessing game where the player tries to guess a hidden word before running out of attempts.
 
