@@ -20,6 +20,26 @@ My goal is to strengthen my Python skills and prepare for coding interviews, pla
 
 # 📂 Projects
 
+## Silent Auction Program
+
+A Python program that simulates a silent auction.
+
+### Features
+- Accepts multiple bidders
+- Stores bids using a dictionary
+- Finds the highest bidder
+- Displays the winner and winning bid
+
+### Concepts Used
+- Functions
+- Dictionaries
+- Loops
+- Conditional Statements
+- User Input
+
+### Files
+- `silent_auction.py`
+
 ### Caesar Cipher
 - Encrypt and decrypt messages using the Caesar Cipher technique.
 - Supports custom shift keys.
